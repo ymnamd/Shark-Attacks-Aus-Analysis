@@ -1,4 +1,6 @@
 # Shark Attacks in Australia Visualisation
+Visualisation Link: https://public.tableau.com/app/profile/yameen.ahmed/viz/FIT3179Visualisation1_17246870231290/SharkAttacksinAustraliaDashboard
+
 Tools: Tableau
 
 Analysed historical shark attack data in Australia from 1791 to 2024 to uncover trends and insights, focusing on vulnerable groups, species involved, safety distances and effective escape strategies. Designed and developed an interactive Tableau dashboard to visualize findings and provide practical advice for ocean safety.
